@@ -1,0 +1,34 @@
+{
+    "SESSION": {
+        "korisnik": {
+            "id": 1,
+            "0": 1,
+            "ime": "veljko",
+            "1": "veljko",
+            "email": "veljko.karanovic45@gmail.com",
+            "2": "veljko.karanovic45@gmail.com",
+            "lozinka": "$2y$10$E7DzPZzyn90DRw\/xN2Uobu1\/zblyV8Fpe5sVXrv0XHBqgH6g4Jzye",
+            "3": "$2y$10$E7DzPZzyn90DRw\/xN2Uobu1\/zblyV8Fpe5sVXrv0XHBqgH6g4Jzye",
+            "uloga": "admin",
+            "4": "admin"
+        }
+    },
+    "POST": []
+}
+{
+    "SESSION": {
+        "korisnik": {
+            "id": 1,
+            "0": 1,
+            "ime": "veljko",
+            "1": "veljko",
+            "email": "veljko.karanovic45@gmail.com",
+            "2": "veljko.karanovic45@gmail.com",
+            "lozinka": "$2y$10$E7DzPZzyn90DRw\/xN2Uobu1\/zblyV8Fpe5sVXrv0XHBqgH6g4Jzye",
+            "3": "$2y$10$E7DzPZzyn90DRw\/xN2Uobu1\/zblyV8Fpe5sVXrv0XHBqgH6g4Jzye",
+            "uloga": "admin",
+            "4": "admin"
+        }
+    },
+    "POST": []
+}
