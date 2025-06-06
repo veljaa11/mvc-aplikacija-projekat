@@ -1,6 +1,9 @@
  Aplikacija za prijavu kvarova 
 
 http://usp2022.epizy.com/sup25/vk/public/index.php
+admin prijava: 
+veljko.karanovic45@gmail.com
+pass: 123456
 
 Ova web aplikacija omogućava korisnicima da prijave tehničke kvarove i prati njihov status, dok administrator ima mogućnost pregleda, filtriranja, menjanja statusa i brisanja prijava.
 
